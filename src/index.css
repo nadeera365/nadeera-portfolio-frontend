@@ -1,0 +1,49 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #0c0c0e;
+  color: #e8e0d0;
+  font-family: 'Montserrat', 'Cormorant Garamond', Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #0c0c0e;
+}
+::-webkit-scrollbar-thumb {
+  background: #c8a96e44;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #c8a96e88;
+}
+
+::selection {
+  background: #c8a96e33;
+  color: #f0e8d8;
+}
+
+button, input, textarea {
+  font-family: inherit;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+}
