@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 // Side-effect: injects fonts + global CSS (runs once on import)
 import "./styles/tokens.js";
@@ -86,6 +87,9 @@ export default function App() {
 
       {/* Footer */}
       <Footer />
+
+      {/* Vercel Web Analytics */}
+      <Analytics />
     </div>
   );
 }
