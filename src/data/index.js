@@ -14,7 +14,7 @@ export const PROFILE = {
   github:     "https://github.com/nadeera365", // ← your GitHub profile URL
   linkedin:   "https://linkedin.com/in/nadeera-shasika",
   behance:    "https://behance.net/yourname", // ← your Behance profile URL
-  email:      "hello@nadeera.dev",
+  email:      "nadeerakumara140@gmail.com",
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
