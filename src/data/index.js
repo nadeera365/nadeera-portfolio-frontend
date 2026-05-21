@@ -133,7 +133,7 @@ export const PROJECTS = [
     tech:     ["React", "MongoDB", "NodeJS","RESTAPI"],
     color:    "#acb276",
     img:      "/project5.png",
-    link:     "https://github.com/nadeera365/", 
+    link:     "https://nadeera-portfolio-frontend.vercel.app/", 
     isBehance: false,
   },  
   {
