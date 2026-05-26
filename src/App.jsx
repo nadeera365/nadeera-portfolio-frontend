@@ -10,7 +10,6 @@ import Projects  from "./components/Projects.jsx";
 import Experience from "./components/Experience.jsx";
 import Education  from "./components/Education.jsx";
 import Contact   from "./components/Contact.jsx";
-import Order     from "./components/Order.jsx";
 import Footer    from "./components/Footer.jsx";
 import { Divider } from "./components/ui/FadeIn.jsx";
 
@@ -83,7 +82,6 @@ export default function App() {
       <Order />
       <Divider />
       <Contact />
-
       {/* Footer */}
       <Footer />
     </div>
