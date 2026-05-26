@@ -1,4 +1,4 @@
-export const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Education", "Order", "Contact"];
+export const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Education", "Contact"];
 
 // ─────────────────────────────────────────────────────────────────────────────
 //  PROFILE  — update these with your real details
