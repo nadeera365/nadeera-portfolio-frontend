@@ -4,7 +4,7 @@ export default function Footer() {
       <span style={s.logo}>
         <span style={s.accent}>{"<"}</span>Nadeera Shasika<span style={s.accent}>{"/>"}</span>
       </span>
-      <span style={s.text}>© 2025 · Built with React · All rights reserved</span>
+      <span style={s.text}>© 2026 · Nadeera Shasika · All rights reserved</span>
     </footer>
   );
 }
