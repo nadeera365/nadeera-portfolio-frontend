@@ -79,8 +79,6 @@ export default function App() {
       <Divider />
       <Education />
       <Divider />
-      <Order />
-      <Divider />
       <Contact />
       {/* Footer */}
       <Footer />
