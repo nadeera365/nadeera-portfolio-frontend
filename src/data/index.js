@@ -5,7 +5,7 @@ export const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Educatio
 // ─────────────────────────────────────────────────────────────────────────────
 export const PROFILE = {
   name:       "Nadeera Shasika",
-  photo:      "/mypic.png",                              // ← "/photo.jpg" or image URL
+  photo:      "/mypic1.png",                              // ← "/photo.jpg" or image URL
   roles:      ["3rd Year Undergraduate", "Full Stack Developer", "ML Enthusiast", "Graphic Designer"],
   university: "University of Colombo",
   year:       "3rd Year",
