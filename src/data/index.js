@@ -5,11 +5,11 @@ export const NAV_LINKS = ["About", "Skills", "Projects", "Experience", "Educatio
 // ─────────────────────────────────────────────────────────────────────────────
 export const PROFILE = {
   name:       "Nadeera Shasika",
-  photo:      "/mypic1.png",                              // ← "/photo.jpg" or image URL
+  photo:      "/mypic2.png",                              // ← "/photo.jpg" or image URL
   roles:      ["3rd Year Undergraduate", "Full Stack Developer", "ML Enthusiast", "Graphic Designer"],
-  university: "University of Colombo",
+  university: "Sabaragamuwa University of SriLanka",
   year:       "3rd Year",
-  degree:     "B.Sc. Computer Science",
+  degree:     "B.Sc. Computer Science and Technology",
   cvUrl:      "/H.G.N.S.Kumara.pdf",              // ← place CV in frontend/public/
   github:     "https://github.com/nadeera365", // ← your GitHub profile URL
   linkedin:   "https://linkedin.com/in/nadeera-shasika",
