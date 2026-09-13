@@ -138,7 +138,7 @@ export const PROJECTS = [
     "REST API"
   ],
   color: "#6f7d32",
-  img: "/project5.png",
+  img: "/project_6.png",
   link: "https://agrosmart-sl.vercel.app",
   frontendGitHub: "https://github.com/nadeera365/AgroSmart_Frontend",
   backendGitHub: "https://github.com/nadeera365/AgroSmart_Backend",
