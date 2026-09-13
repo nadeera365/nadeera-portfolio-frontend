@@ -126,6 +126,25 @@ export const PROJECT_CATEGORIES = ["All", "Full Stack", "ML", "Design"];
 
 export const PROJECTS = [
   {
+  title: "AgroSmart SL",
+  category: "Full Stack",
+  year: "2026",
+  desc: "A weather-aware fertilizer decision support system that generates location-based paddy fertilizer schedules, displays weather forecasts, and sends SMS reminders to farmers.",
+  tech: [
+    "React",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "REST API"
+  ],
+  color: "#6f7d32",
+  img: "/project5.png",
+  link: "https://agrosmart-sl.vercel.app",
+  frontendGitHub: "https://github.com/nadeera365/AgroSmart_Frontend",
+  backendGitHub: "https://github.com/nadeera365/AgroSmart_Backend",
+  isBehance: false
+},
+  {
     title:    "Portfolio",
     category: "Full Stack",
     year:     "2026",
