@@ -253,8 +253,7 @@ export const EDUCATION = [
     degree: "Developing Back-End Apps with Node.js and Express",
     school: "IBM",
     period: "2026",
-    detail: "Completed IBM’s **Developing Back-End Apps with Node.js and Express** course, gaining hands-on experience in REST API development, routing, authentication, middleware, and server-side application development.
-",
+    detail: "Completed IBM’s **Developing Back-End Apps with Node.js and Express** course, gaining hands-on experience in REST API development, routing, authentication, middleware, and server-side application development.",
     type:   "Certification",
     credentialUrl: "https://www.coursera.org/account/accomplishments/verify/H75UA9E4XJIT",
   },
