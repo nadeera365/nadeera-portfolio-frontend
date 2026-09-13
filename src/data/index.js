@@ -140,8 +140,6 @@ export const PROJECTS = [
   color: "#6f7d32",
   img: "/project_6.png",
   link: "https://agrosmart-sl.vercel.app",
-  frontendGitHub: "https://github.com/nadeera365/AgroSmart_Frontend",
-  backendGitHub: "https://github.com/nadeera365/AgroSmart_Backend",
   isBehance: false
 },
   {
